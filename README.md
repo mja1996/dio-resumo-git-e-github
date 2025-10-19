@@ -20,3 +20,4 @@ git init
 ## 🔎 Referencias
 - [Curso DIO Global](https://www.dio.me/)
 - Recomendo o Curso
+- Curso 100% em Vídeo Aulas, acesso vitalício
